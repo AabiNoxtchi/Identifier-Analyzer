@@ -1,0 +1,7 @@
+D:\Uni-2019\C#\IdentifierAnalyzer\IdentifierAnalyzer\bin\Debug\IdentifierAnalyzer.exe.config
+D:\Uni-2019\C#\IdentifierAnalyzer\IdentifierAnalyzer\bin\Debug\IdentifierAnalyzer.exe
+D:\Uni-2019\C#\IdentifierAnalyzer\IdentifierAnalyzer\bin\Debug\IdentifierAnalyzer.pdb
+D:\Uni-2019\C#\IdentifierAnalyzer\IdentifierAnalyzer\obj\Debug\IdentifierAnalyzer.csproj.CoreCompileInputs.cache
+D:\Uni-2019\C#\IdentifierAnalyzer\IdentifierAnalyzer\obj\Debug\IdentifierAnalyzer.exe
+D:\Uni-2019\C#\IdentifierAnalyzer\IdentifierAnalyzer\obj\Debug\IdentifierAnalyzer.pdb
+D:\Uni-2019\C#\IdentifierAnalyzer\IdentifierAnalyzer\obj\Debug\IdentifierAnalyzer.csprojAssemblyReference.cache
